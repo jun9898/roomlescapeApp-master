@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a001.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a002.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a003.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a004.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a005.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a006.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a007.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a008.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a009.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a010.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a011.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a012.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a013.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a014.xml" value="0.22" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a015.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a016.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a017.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a018.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a019.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a020.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_a021.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_main.xml" value="0.36822916666666666" />
+        <entry key="..\:/Users/PC/roomln/app/src/main/res/layout/activity_sub.xml" value="0.22505482456140352" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
